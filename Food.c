@@ -33,7 +33,3 @@ main()
 			printf("Invalid Choice. Please Try Again");
 	}
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
